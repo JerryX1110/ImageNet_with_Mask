@@ -5,6 +5,6 @@ Google Drive Link: <https://drive.google.com/drive/folders/1TCao8p97nQV8MeAxJvEn
 
 # Credit
 
-[Pixel-ImageNet]:(https://github.com/shiyinzhang/Pixel-ImageNet)
+Pixel-ImageNet:<https://github.com/shiyinzhang/Pixel-ImageNet>
 
 
